@@ -20,6 +20,7 @@ int main() {
     int pontosTuristicos2;
     
     // Entrada de dados para a primeira carta
+    printf("Desafio Super Trunfo \n");
     printf("Digite os dados da primeira carta:\n");
     printf("Estado (A-H): ");
     scanf(" %c", &estado1);
